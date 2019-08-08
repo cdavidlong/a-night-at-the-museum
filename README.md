@@ -2,8 +2,8 @@
 8/08/2019
 
 ### Versions:
-    GoogleVR SDK version 1.60.0
-    Unity version 2017.1.0p4 Personal
+GoogleVR SDK version 1.60.0
+Unity version 2019.2.0f1 Personal
 
 ### Project Title
 A night at the museum
