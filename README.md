@@ -2,8 +2,8 @@
 A night at the museum
 
 ### Versions:
-GoogleVR SDK version 1.60.0
-Unity version 2019.2.0f1 Personal
+- GoogleVR SDK version 1.60.0
+- Unity version 2019.2.0f1 Personal
 
 ### Video
 - Walk through:     https://youtu.be/RtWl18uCFOY
